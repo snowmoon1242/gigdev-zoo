@@ -1,0 +1,10 @@
+__pycache__
+*.pickle
+params_cache.json
+hpmdata.dat
+.DS_Store
+.idea/
+dist
+exaface.egg-info
+build
+*.pyc
